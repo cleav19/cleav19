@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @cleav19
-- 👀 I’m interested in iinformatique
-- 🌱 I’m currently learning le HTML et le CSS
-- 📫 How to reach me :discord clea#7045 snap: clea_v19 
-              
+# 👋 Salut, moi c'est @cleav19
 
-<!---
-cleav19/cleav19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Étudiant en MMI | Futur étudiant en BUT Informatique | Développeur Logiciel en devenir
+
+Actuellement en formation **Métiers du Multimédia et de l'Internet**, je me spécialise dans le développement web et logiciel. Mon objectif est d'intégrer un **BUT Informatique** pour approfondir mes compétences techniques.
+
+---
+
+### 🛠️ Mes compétences & outils
+* **Langages :** HTML5, CSS3, Twig, PHP,
+* **Outils :** VS Code, PhpStorm, Git/GitHub, Suite Adobe
+* **Méthode :** Rigueur, travail en équipe et autonomie.
+
+---
+
+### 📬 Me contacter
+* www.linkedin.com/in/cléa-vidal-55534a352
+* clea.vidal@etu.unistra.fr
