@@ -1,18 +1,36 @@
-# 👋 Salut, moi c'est @cleav19
+# 👋 Bonjour, je m'appelle Cléa
 
-### Étudiant en MMI | Futur étudiant en BUT Informatique | Développeur Logiciel en devenir
+🎓 Étudiante en BUT MMI à l'IUT de Haguenau  
+💻 Intéressée par le développement logiciel  
+🚀 J'apprends actuellement plusieurs langages de programmation et je développe mes premiers projets.
 
-Actuellement en formation **Métiers du Multimédia et de l'Internet**, je me spécialise dans le développement web et logiciel. Mon objectif est d'intégrer un **BUT Informatique** pour approfondir mes compétences techniques.
 
----
+## 🧠 Compétences en cours d'apprentissage
 
-### 🛠️ Mes compétences & outils
-* **Langages :** HTML5, CSS3, Twig, PHP,
-* **Outils :** VS Code, PhpStorm, Git/GitHub, Suite Adobe
-* **Méthode :** Rigueur, travail en équipe et autonomie.
+- Python
+- SQL
+- C / C++
 
----
+## Compétences aquises
+- HTML/CSS
+- Figma
+- Twig/PHP
 
-### 📬 Me contacter
-* www.linkedin.com/in/cléa-vidal-55534a352
-* clea.vidal@etu.unistra.fr
+
+## 📂 Projets
+
+Voici quelques projets réalisés pendant ma formation ou en autonomie :
+
+- Projet SAE BUT MMI
+- Développement de petits programmes pour apprendre la programmation
+- Création de pages web en HTML / CSS
+
+
+## 🎯 Objectifs
+
+Mon objectif est de progresser dans le développement logiciel et de continuer à apprendre de nouveaux langages et technologies afin de devenir développeuse.
+
+
+## 📫 Me contacter
+
+- LinkedIn : www.linkedin.com/in/cléa-vidal-55534a352
